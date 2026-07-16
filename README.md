@@ -38,7 +38,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
     Navigate into the project directory:
     Bash
 
-    cd booster-homework
+    cd Queto-app
 
     Install the required dependencies:
     Bash
